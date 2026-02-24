@@ -1,1 +1,1 @@
-# veripy
+# VeriPy - Zed Extension
